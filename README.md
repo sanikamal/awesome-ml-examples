@@ -3,26 +3,26 @@ A collection of awesome beginners-friendly machine learning tutorials and projec
 
 # Contents
 - Machine Learning
- - Python for Machine Learning
- - Supervised vs Unsupervised
+  - Python for Machine Learning
+  - Supervised vs Unsupervised
 
 - Regression
- - Simple Linear Regression
- - Multiple Linear Regression
- - Model Evaluation in Regression Models
- - Non-Linear Regression
+  - Simple Linear Regression
+  - Multiple Linear Regression
+  - Model Evaluation in Regression Models
+  - Non-Linear Regression
 - Classification
- - K-Nearest Neighbors
- - Decision Trees
- - Evaluation Metrics in Classification
- - Logistic Regression vs Linear Regressin
- - Support Vector Machine (SVM)
+  - K-Nearest Neighbors
+  - Decision Trees
+  - Evaluation Metrics in Classification
+  - Logistic Regression vs Linear Regressin
+  - Support Vector Machine (SVM)
 
 - Clustering
- - K-Means Clustering
- - Hierarchical Clustering
- - DBSCAN
+  - K-Means Clustering
+  - Hierarchical Clustering
+  - DBSCAN
 
 - Recommender Systems
- - Content-Based Recommender Systems
- - Collaborative Filtering
+  - Content-Based Recommender Systems
+  - Collaborative Filtering
