@@ -12,7 +12,7 @@ A collection of awesome beginners-friendly machine learning tutorials and projec
   - Model Evaluation in Regression Models
   - [Non-Linear Regression](https://github.com/sanikamal/awesome-ml-examples/blob/master/NoneLinearRegression.ipynb)
 - Classification
-  - K-Nearest Neighbors
+  - [K-Nearest Neighbors](https://github.com/sanikamal/awesome-ml-examples/blob/master/K-Nearest-neighbors.ipynb)
   - Decision Trees
   - Evaluation Metrics in Classification
   - Logistic Regression vs Linear Regressin
