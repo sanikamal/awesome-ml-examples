@@ -28,5 +28,5 @@ A collection of awesome beginners-friendly machine learning tutorials and projec
   - Collaborative Filtering
 
 - Other
-  - [K-Nearest Neighbors and Support Vector Machine](https://github.com/sanikamal/awesome-ml-examples/blob/master/Exploring-a-well-known-dataset-for-machine-learning.ipynb)
+  - [K-Nearest Neighbors and Support Vector Machine](https://github.com/sanikamal/awesome-ml-examples/blob/master/Exploring a well-known dataset for machine learning.ipynb)
  
