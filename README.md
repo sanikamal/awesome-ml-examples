@@ -29,5 +29,5 @@ A collection of awesome beginners-friendly machine learning tutorials and projec
 
 - Other
   - [Spam Detection Using  Naive-Bayes algorithm](https://github.com/sanikamal/awesome-ml-examples/blob/master/spam-detection/spam-detection.ipynb)
-  -[Top 5 Machine Learning Libraries](https://github.com/sanikamal/awesome-ml-examples/blob/master/The%20Top%205%20Machine%20Learning%20Libraries%20in%20Python.ipynb)
+  - [Top 5 Machine Learning Libraries](https://github.com/sanikamal/awesome-ml-examples/blob/master/The%20Top%205%20Machine%20Learning%20Libraries%20in%20Python.ipynb)
  
