@@ -13,6 +13,43 @@ A collection of awesome beginners-friendly machine learning tutorials and projec
 - data governance:Defined process an organization follows to ensure high-quality data exists throughout the complete lifecycle.
 - data dictionary:Maps and defines data, and oftentimes shows the relationship.
 
+### Data Analysis
+> Data analysis is a process of inspecting, cleansing, transforming, and
+modeling data with the goal of discovering useful information, informing
+conclusions, and supporting decision-making. - [Data Analysis, Wikipedia](https://en.wikipedia.org/wiki/Data_analysis)
+
+### Data Science
+> Data science is a multi-disciplinary field that uses scientific methods,
+processes, algorithms and systems to extract knowledge and insights from
+structured and unstructured data. - [Data Science, Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+
+### Machine Learning
+> Machine learning (ML) is the scientific study of algorithms and statistical
+models that computer systems use in order to perform a specific task
+effectively without using explicit instructions, relying on patterns and
+inference instead. - [Machine Learning, Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+
+### Artificial Intelligence
+> Colloquially, the term "artificial intelligence" is used to describe
+machines/computers that mimic "cognitive" functions that humans
+associate with other human minds, such as "learning" and "problem
+solving". - [Artificial Intelligence, Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
+Think of AI as a destination and machine learning as one path to get there. AI
+research and development aims to mimic human cognitive functions, including
+decision making. Machine learning is the most promising attempt toward AI to date.
+
+### Deep Learning
+> Deep learning (also known as deep structured learning or hierarchical
+learning) is part of a broader family of machine learning methods based on
+artificial neural networks. - [Deep Learning, Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
+
+Deep learning refers to a family of ML methods that deal with neural networks.
+Neural networks usually need much more data to train than other ML methods.
+Deep learning offers exceptional performance in some, but not all domains. It
+shines in domains like computer vision, natural language processing, and audio
+processing.
+
 # Contents
 - Machine Learning
   - Python for Machine Learning
