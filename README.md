@@ -13,6 +13,27 @@ A collection of awesome beginners-friendly machine learning tutorials and projec
 - data governance:Defined process an organization follows to ensure high-quality data exists throughout the complete lifecycle.
 - **Data Dictionary:** Maps and defines data, and oftentimes shows the relationship.
 
+
+### Statistics terms and definitions
+
+- binomial random variable:The result of an experiment that has only two possible outcomes
+- mean:The average of a data set
+- median:The midpoint of a data set
+- mode:Data point that is most prevalent in the data set
+- outlier:Data point that is an abnormal distance from the other values in the data set
+- permutations:The number of ways in which objects can be arranged
+- probability:The likelihood that a specific event will occur
+- range:The difference between the largest and smallest numbers in a data set
+- standard deviation:Average distance from the mean
+- Z-score:The number of standard deviations data points lie from the mean
+- Central Limit Theorem:The more samples you take, the closer the sample means will get to the population means
+- hypothesis testing:The collection and measurement of random samples used to support a hypothesis
+- inferential statistics:Meaningful statistics that provide information about a population
+- sample:A small subset of measurements
+- standard error:The standard deviation of proportion distribution
+- Type One Error:A false positive
+- Type Two Error:A false negative
+
 ### Data Analysis
 > Data analysis is a process of inspecting, cleansing, transforming, and
 modeling data with the goal of discovering useful information, informing
