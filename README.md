@@ -93,6 +93,10 @@ Samples can be selected randomly or based on specific features of the data set.
   - Python for Machine Learning
   - Supervised vs Unsupervised
 
+- Data Processing
+  - [Scale Image Pixel for Deep Learning](https://github.com/sanikamal/machine-learning-atoz/blob/master/Scale_Image_Pixel_Data_for_Deep_Learning.ipynb) 
+
+
 - Regression
   - [Simple Linear Regression](https://github.com/sanikamal/awesome-ml-examples/blob/master/Simple-Linear-Regression.ipynb)
   - Multiple Linear Regression
